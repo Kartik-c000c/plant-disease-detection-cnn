@@ -1,0 +1,13 @@
+# Models (bahut bade files)
+plant_disease_cnn.h5
+plant_disease_xgb.pkl
+plant_disease_label_transform.pkl
+
+# Dataset
+PlantVillage/
+
+# Cache / junk
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+.env
