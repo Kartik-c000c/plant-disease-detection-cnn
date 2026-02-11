@@ -24,3 +24,12 @@ A deep learning based web application that detects plant leaf diseases using a C
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+---
+```
+##  Acknowledgement
+
+This project was developed using open-source references and publicly available datasets.  
+The implementation, model training, and web application were customized and extended  
+for learning, experimentation, and deployment purposes.
+
+
