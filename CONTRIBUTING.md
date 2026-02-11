@@ -1,88 +1,45 @@
-## 🤝First time contributing? We will help you out.👍
+# Contributing Guidelines
 
-![GitHub custom open for collaboration](https://img.shields.io/badge/Open%20For-Collaboration-brightgreen?style=for-the-badge)
+Thank you for your interest in contributing to this project! 🙌  
+All contributions, suggestions, and improvements are welcome.
 
-Refer to the following articles on the basics of Git and Github and can also contact the Project Mentors, in case you are stuck:
+## How You Can Contribute
 
-- [Getting started with Git and GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
-- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
-- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
-- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+You can contribute in several ways, including:
 
-***If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).***
+- 🐞 Reporting bugs or issues
+- 💡 Suggesting new features or enhancements
+- 🧠 Improving model performance or accuracy
+- 🧹 Refactoring or optimizing existing code
+- 📝 Improving documentation or comments
 
-## 💥 How to Contribute
+## Steps to Contribute
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+1. Fork this repository on GitHub
+2. Clone the forked repository to your local system
+3. Create a new branch for your changes
+4. Make your changes and commit them with a clear message
+5. Push your branch to GitHub
+6. Open a Pull Request describing your changes
 
-- Take a look at the Existing [Issues](https://github.com/kashish-ag/Detection-of-Plant-Disease.git) or create your own Issues!
-- Wait for the Issue to be assigned to you after which you can start working on it.
-- Fork the Repo and create a Branch for any Issue that you are working upon.
-- Read the [Code of Conduct](https://github.com/kashish-ag/Detection-of-Plant-Disease.git)
-- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
-- Add Screenshots to help us know what this Script is all about.
+## Coding Guidelines
 
-## ⭐HOW TO MAKE A PULL REQUEST :
+- Write clean and readable code
+- Use meaningful variable and function names
+- Add comments where necessary
+- Ensure the project runs without errors before submitting
 
-**1.** Fork [this](https://github.com/kashish-ag/Detection-of-Plant-Disease.git) repository.
-Click on the <a href="https://github.com/kashish-ag/Detection-of-Plant-Disease.git"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+## Reporting Issues
 
-**2.** Clone the forked repository. Open terminal and type:
+When reporting an issue, please include:
+- A clear description of the problem
+- Steps to reproduce the issue
+- Screenshots or logs if applicable
 
-```bash
-git clone https://github.com/<your-github-username>/project_name.git
-```
+## Code of Conduct
 
-**3.** Make changes in source code.
+By participating in this project, you agree to follow the project's Code of Conduct and help maintain a respectful and professional environment.
 
-**4.** Stage your changes and commit
+---
 
-```bash
-#Add changes to Index
-git add .
-
-#Commit to the local repo
-git commit -m "<your_commit_message>"
-```
-
-**5.** Push your local commits to the remote repo.
-
-```bash
-git push
-```
-
-**6.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
-
-**7.** **Congratulations!** Sit and relax, you've made your contribution to Detection-of-Plant-Disease project.
-
-
-***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
-
-## Style Guides for Git Commit Messages:memo:
-
-#### Here's a list of some good to have points, that can add more value to your contribution logs.
-
-- Use the present tense (example: "Add feature" and not "Added feature")
-- Use the imperative mood (example: "Move item to...", instead of "Moves item to...")
-- Limit the first line (also called subject line) to 50 characters or less
-- Capitalize the subject line
-- Separate subject from body with a blank line
-- Do not end the subject line with a period
-- Wrap the body at 72 characters
-- Use the body to explain what, why, vs, and how
-- Reference issues and pull requests liberally after the first line
-
-For more detailed reference to the above points, refer here: https://chris.beams.io/posts/git-commit.
-
-## 💥 Issues:
-For major changes, you are welcomed to open an issue  about what you would like to contribute. Enhancements will be appreciated.
-
-#### All the Best!🥇
-
-<p align = "center">
-
-<a href="https://github.com/kashish-ag"> <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kashish-ag/Detection-of-Plant-Disease.git)
-
-</p>
+Thank you for contributing and helping improve this project! 🚀
